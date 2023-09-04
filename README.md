@@ -3,4 +3,4 @@ Defending a thesis at AFIT? Feel overwhelmed by some LaTex formatting? Fear not!
 
 Current as of 2023... additional formatting may be required to identically match the original LaTex version. 
 
-LaTex form can be found [here]([https://www.example.com](https://www.overleaf.com/latex/templates/afit-defense-template/jwfsgfdddbgf)https://www.overleaf.com/latex/templates/afit-defense-template/jwfsgfdddbgf).
+LaTex form can be found [here](https://www.example.com](https://www.overleaf.com/latex/templates/afit-defense-template/jwfsgfdddbgf)https://www.overleaf.com/latex/templates/afit-defense-template/jwfsgfdddbgf).
